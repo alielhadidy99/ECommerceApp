@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673864335901",
+    "firebase_url": "https://commerse-project.firebaseio.com",
+    "project_id": "commerse-project",
+    "storage_bucket": "commerse-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673864335901:android:c0901f2bf3653b2fafbcf4",
+        "android_client_info": {
+          "package_name": "com.example.commerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673864335901-etht6ofo73qkt3094ote5s2da4jkeeju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8rha2iasbTv3jYnjMD7ZM_ndQcXrO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673864335901-etht6ofo73qkt3094ote5s2da4jkeeju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
